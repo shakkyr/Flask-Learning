@@ -1,0 +1,8 @@
+# Python virtual environments: recreate with "python -m venv env" + "pip install -r requirements.txt"
+env/
+venv/
+project/
+__pycache__/
+*.pyc
+.env
+node_modules/
